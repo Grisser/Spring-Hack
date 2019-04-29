@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpringHack</string>
+    <string name="password">Пароль</string>
+    <string name="login">Вход</string>
+    <string name="surname">Фамилия</string>
+    <string name="name">Имя</string>
+    <string name="cont">Продолжить</string>
+    <string name="contu"><u>Продолжить ></u></string>
+    <string name="add_users">Добавление участников</string>
+    <string name="add_task">+ Добавить задачу</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443199094405",
+    "firebase_url": "https://springhack-1514f.firebaseio.com",
+    "project_id": "springhack-1514f",
+    "storage_bucket": "springhack-1514f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443199094405:android:f2c7c9e2fb471baf",
+        "android_client_info": {
+          "package_name": "com.example.springhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443199094405-jbkmfv7rh4337t2ehvb7m387a1a3g6jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.springhack",
+            "certificate_hash": "82f3cc54070b94d4adafbfe4f2b426da8d2ac606"
+          }
+        },
+        {
+          "client_id": "443199094405-gke76jhp1ppve5a23quuacokoi5h4gcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRGJRHhrNOunJQL7oYUMWifQKmTFUWD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443199094405-gke76jhp1ppve5a23quuacokoi5h4gcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
